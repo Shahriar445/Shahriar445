@@ -1,4 +1,4 @@
-### Hi there 👋, Shahriar 
+### Hi there 👋
 #### I am a competitive  programmer & learning Cyber security & Web hacking 
 ![I am a competitive  programmer & learning Cyber security & Web hacking ]
 
