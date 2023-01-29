@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I am a competitive  programmer & learning Cyber security & Web hacking 
-![I am a competitive  programmer & learning Cyber security & Web hacking ]
+
 
 Hello, I am Shahriar I am a programmer and also learning Cyber Security and Ethical Hacking.
 Learning new things is my passion. Every time I learn new things. also, solve problems  
