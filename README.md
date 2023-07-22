@@ -1,16 +1,15 @@
 ### Hi there 👋
-#### I am a competitive  programmer & learning Cyber security & Web hacking 
-
+#### I am a competitive  programmer & learning Web Technology 
 
 Hello, I am Shahriar I am a programmer and also learning Cyber Security and Ethical Hacking.
 Learning new things is my passion. Every time I learn new things. also, solve problems  
 
 
-Skills: C/ C++ / Python Basic / Java Basic /  HTML / CSS / Networking Basic / Linux / Windows
+Skills: C/ C++ / Python Basic / Java /Java Fx / C# / ASP.NET / MY SQL /  HTML / CSS / Networking Basic / Linux / Windows
 
 - 🌱 I’m currently learning Cyber Security / Problem Solving / Programming / Networking / Ethical Hacking / Web Security  
 - 🤔 I’m looking for help with Cyber Security field  
-- 💬 Ask me about if you need any ide about Programming  
+- 💬 Ask me if you need any idea about Programming  
 - ⚡ Fun fact: If you think you are too small to be effective, you have never been in the dark with a mosquito  
 
 
