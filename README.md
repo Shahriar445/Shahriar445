@@ -23,10 +23,3 @@ Skills: C/ C++ / Python Basic / Java /Java Fx / C# / ASP.NET / MY SQL /  HTML / 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahriar445&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shahriar445)  
-
-![GitHub metrics](https://metrics.lecoq.io/Shahriar445)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shahriar445)  
-
-![Profile views](https://gpvc.arturio.dev/Shahriar445)  
