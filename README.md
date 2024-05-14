@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core MVC**
 
-- 👯 I’m looking to collaborate on **AS.Net Development**
+- 👯 I’m looking to collaborate on **ASP.Net Development**
 
 - 🤝 I’m looking for help with **Software Development**
 
