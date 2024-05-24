@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shahriar Haque</h1>
-<h3 align="center">A passionate Software developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Ha-Meem Group As a Junior Software Engineer (Intern)**
 
-- 🌱 I’m currently learning **ASP.NET Core MVC**
+- 🌱 I’m currently learning **ASP.NET Core MVC (.Net 8)**
 
 - 👯 I’m looking to collaborate on **ASP.Net Development**
 
