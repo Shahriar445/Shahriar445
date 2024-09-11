@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **Ha-Meem Group As a Junior Software Engineer (Intern)**
+- Technology used Frontend: React.js for Backend: Asp.net core web api 
 
 - 🌱 I’m currently learning **ASP.NET Core MVC (.Net 8)**
 
