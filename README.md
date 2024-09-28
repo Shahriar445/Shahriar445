@@ -1,16 +1,18 @@
-<h1 align="center">Hi 👋, I'm Shahriar Haque</h1>
+<h1>align="center">As-Salamu Alaykum</h1>
+<h2 align="center">I'm Shahriar Haque</h2>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Ha-Meem Group As a Junior Software Engineer (Intern)**
-- Technology used Frontend: React.js for Backend: Asp.net core web api 
+- 🔭 I’m currently working on **Ha-Meem Group As a Software Engineer (Intern)**
+- Frontend: **HTML,CSS,BootStrap and React Js**
+- Backend: **Asp.net core web api (.net 8)**
 
-- 🌱 I’m currently learning **ASP.NET Core MVC (.Net 8)**
+- 🌱 I’m currently learning **ASP.NET Core Web Api (.Net 8)/Clean Architecture/SOLID Principal /SDLC /React Js/Type Script/ **
 
 - 👯 I’m looking to collaborate on **ASP.Net Development**
 
 - 🤝 I’m looking for help with **Software Development**
 
-- 💬 Ask me about **C++ , Java , C#**
+- 💬 Ask me about **C++ , Java , C#, .NET**
 
 - 📫 How to reach me **shahriarhaque445@gmail.com**
 
