@@ -1,4 +1,4 @@
-<h1>align="center">As-Salamu Alaykum</h1>
+<h1 align="center">As-Salamu Alaykum</h1>
 <h2 align="center">I'm Shahriar Haque</h2>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
