@@ -2,7 +2,7 @@
 <h2 align="center">I'm Shahriar Haque</h2>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working at **Ha-Meem Group As a Software Engineer (Intern)**
+- 🔭 I’m currently working at **Ha-Meem Group As a Assistant Software Engineer**
 - Frontend: **HTML,CSS,BootStrap and React Js**
 - Libary:*Ant Design, Material UI, Tailwind CSS*
 - Backend: **Asp.net core web api (.net 8)**
