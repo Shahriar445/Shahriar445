@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 - 🔭 I’m currently working at **Ha-Meem Group As a Assistant Software Engineer**
+- Backend: **ASP.NET Core| REST API | WEB API | MVC | Clean Architecture | SOLID Principal | Repository Pattern**
 - Frontend: **HTML,CSS,BootStrap and React Js**
 - Libary:*Ant Design, Material UI, Tailwind CSS*
-- Backend: **Asp.net core web api (.net 8)**
 
 - 🌱 I’m currently learning **ASP.NET Core Web Api (.Net 8)/Clean Architecture/SOLID Principal /SDLC /React Js/Type Script/ **
 
